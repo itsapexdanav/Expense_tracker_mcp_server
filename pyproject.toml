@@ -11,4 +11,3 @@ dependencies = [
     "aiosqlite>=0.22.1",
     "fastmcp>=3.4.0",
 ]
-
